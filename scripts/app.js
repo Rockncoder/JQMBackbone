@@ -7,6 +7,7 @@
 (function () {
   window.App = {
     Models:{},
+    Views: {},
     Router:{},
     Event:_.extend({}, Backbone.Events)
   };
